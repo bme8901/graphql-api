@@ -1,0 +1,27 @@
+{
+  "name": "graphql-api",
+  "version": "1.0.0",
+  "description": "An exploration into a backend based on express-graphql.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bme8901/graphql-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bme8901/graphql-api/issues"
+  },
+  "homepage": "https://github.com/bme8901/graphql-api#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  },
+  "dependencies": {
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.6.0",
+    "uuidv4": "^6.0.7"
+  }
+}
